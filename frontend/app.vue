@@ -1,6 +1,7 @@
 <template>
   <div>
-    <!-- <NuxtWelcome /> -->
-    <h1>Hello Momoka</h1>
+    <AppHeader />
+    <NuxtPage />
+    <AppFooter />
   </div>
 </template>
